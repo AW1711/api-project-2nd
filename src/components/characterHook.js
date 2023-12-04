@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 
 // Custom hook for fetching character information
 const useCharacterInfo = (region, realm, characterName, fields) => {

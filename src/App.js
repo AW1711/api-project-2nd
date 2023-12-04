@@ -1,6 +1,6 @@
 
 import './App.css';
-import React, { useState } from "react";
+import { useState } from "react";
 import CharacterInfoComponent from "./components/charInfo.js";
 import MythicPlusComponent from './components/mythicPlus.js';
 import RaidComponent from "./components/raidProg.js"

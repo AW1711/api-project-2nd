@@ -1,4 +1,4 @@
-import React from "react";
+
 import useCharacterInfo from "./characterHook";
 
 const CharInfoComponent = ({ region, realm, characterName }) => {
